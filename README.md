@@ -44,9 +44,7 @@ SeatGeek is in an unusual place right now. After three years of steady growth, s
 - Photoshop
 - Email marketing experience
 
-<div style="text-align:center">
-<a href="http://seatgeek.com/jobs/inbound_marketing/">Apply Now</a>
-</div>
+# &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://seatgeek.com/jobs/inbound_marketing/">Apply Now</a>
 
 ***
 
