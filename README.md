@@ -1,5 +1,7 @@
 # Director of Customer Acquisition [1]
 
+Apply @ [http://seatgeek.com/jobs/inbound_marketing/](http://seatgeek.com/jobs/inbound_marketing/), and read more here:
+
 ## Why is this important to us?
 
 We don’t do paid marketing at SeatGeek; all users find us via unpaid channels [2]. We humbly believe we have the best ticket search site on the web and, accordingly, much of our growth comes from word-of-mouth referrals. But there are ways we accelerate that growth to bring SeatGeek in front of prospective users more quickly. That’s where you come in...
@@ -45,4 +47,32 @@ SeatGeek is in an unusual place right now. After three years of steady growth, s
 ***
 
 [1]: If it wasn't exceedingly trite, I might call this something like "Head Growth Hacker."
+
 [2]: There are a few minor exceptions to this, e.g. we run AdWords against branded terms, but the amount spent is trivial. It's worth noting that this may change soon--we're considering delving into paid marketing. If we do that, you could get involved, and even lead the effort, if you're interested. But the state of that is a bit up in the air, so for the purpose of this post it shouldn't be considered a core part of the job.
+
+***
+
+## About
+
+  We've got some open source stuff at https://github.com/seatgeek
+  Get in touch with us at hi@seatgeek.com
+
+  You might enjoy this (decidedly random) event:
+
+    Tia Fuller
+    Jazz Standard - New York, NY
+    Tue Oct 16 21:30:00 2012
+    http://seatgeek.com/tia-fuller-tickets/new-york-new-york-jazz-standard-2012-10-16-9-30-pm/concert/996672/
+
+Yeah Buddy.
+
+	    /\  \         /\  \         /\  \         /\  \         /\  \         /\  \         /\  \         /\__\
+	   /::\  \       /::\  \       /::\  \        \:\  \       /::\  \       /::\  \       /::\  \       /:/  /
+	  /:/\ \  \     /:/\:\  \     /:/\:\  \        \:\  \     /:/\:\  \     /:/\:\  \     /:/\:\  \     /:/__/
+	 _\:\~\ \  \   /::\~\:\  \   /::\~\:\  \       /::\  \   /:/  \:\  \   /::\~\:\  \   /::\~\:\  \   /::\__\____
+	/\ \:\ \ \__\ /:/\:\ \:\__\ /:/\:\ \:\__\     /:/\:\__\ /:/__/_\:\__\ /:/\:\ \:\__\ /:/\:\ \:\__\ /:/\:::::\__\
+	\:\ \:\ \/__/ \:\~\:\ \/__/ \/__\:\/:/  /    /:/  \/__/ \:\  /\ \/__/ \:\~\:\ \/__/ \:\~\:\ \/__/ \/_|:|~~|~
+	 \:\ \:\__\    \:\ \:\__\        \::/  /    /:/  /       \:\ \:\__\    \:\ \:\__\    \:\ \:\__\      |:|  |
+	  \:\/:/  /     \:\ \/__/        /:/  /     \/__/         \:\/:/  /     \:\ \/__/     \:\ \/__/      |:|  |
+	   \::/  /       \:\__\         /:/  /                     \::/  /       \:\__\        \:\__\        |:|  |
+	    \/__/         \/__/         \/__/                       \/__/         \/__/         \/__/         \|__|
